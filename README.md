@@ -1,4 +1,4 @@
-# 👋 Hola, soy Lautaro Fernández (Panchitoloquito)
+# 👋 Hola, soy Lautaro Fernández
 
 ### Desarrollo Web • Web Scraping • Automatización con Python
 
