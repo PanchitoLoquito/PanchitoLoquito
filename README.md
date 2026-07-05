@@ -109,9 +109,3 @@ https://github.com/PanchitoLoquito
 ---
 
 > *Siempre abierto a nuevos desafíos, proyectos freelance y oportunidades para seguir aprendiendo y crear software de calidad.*
-
-🐙 GitHub: https://github.com/PanchitoLoquito
-
----
-
-> *Siempre estoy abierto a nuevos proyectos, colaboraciones y oportunidades para seguir aprendiendo mientras desarrollo soluciones de calidad.*
